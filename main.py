@@ -23,7 +23,6 @@ class MarkupInput(BaseModel):
 @app.post("/convert")
 def convert_markup_to_html(input: MarkupInput):
     try:
-        # Use additional extensions for better markdown support
         extensions = [
             'markdown.extensions.fenced_code',  # Code blocks with ```
             'markdown.extensions.tables',       # Tables support

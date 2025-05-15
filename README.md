@@ -2,7 +2,7 @@
 
 A robust FastAPI application that converts Markdown to HTML with support for advanced markdown features. Perfect for integrating into documentation systems, blog platforms, or any application requiring markdown processing.
 
-[GitHub Repository Link] - *Add your GitHub repository link here after pushing the code*
+[GitHub Repository](https://github.com/RoshannCodes/Markdownify)
 
 ## Features
 
